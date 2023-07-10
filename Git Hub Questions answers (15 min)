@@ -1,0 +1,111 @@
+Git Hub Questions (15 min)
+
+1. Which of these terms best describes GitHub?
+A. Integrated Development Environment
+B. Distributed Version Control System
+C. Issue Tracking System
+D. Web-Based Repository Hosting Service
+ANS: D
+
+2. What is the opposite of a GIT clone?
+A. GIT push
+B. GIT add
+C. GIT upload
+D. GIT status
+ANS: A
+
+3. What command do you run to view the commit history of your repository?
+A. GIT history
+B. GIT log
+C. GIT commit -h
+D. GIT past
+ANS: B
+
+4. How do you check the state of your local git repository since your last commit?
+A. GIT check
+B. GIT status
+C. GIT commit
+D. GIT diff
+ANS:B
+
+5. What&#39;s a shortcut to staging all the changes you have?
+A. GIT commit add
+B. GIT commit
+C. GIT add
+D. GIT stage -a
+ANS:C
+
+6. How do you supply a commit message to a commit?
+A. GIT message &quot;I&#39;m coding!&quot;
+B. GIT add &quot;I&#39;m coding!&quot;
+C. GIT commit &quot;I&#39;m coding!&quot;
+D. GIT commit -m &quot;I&#39;m coding!&quot;
+ANS: D
+
+7. What&#39;s the git command that downloads your repository from GitHub to your
+computer?
+A. GIT push
+B. GIT fork
+C. GIT clone
+D. GIT commit
+AND: C
+
+8. Which is the correct usage of the push command?
+A. GIT push &lt;remote&gt; &lt;branch&gt;
+B. GIT push &lt;branch&gt; &lt;remote&gt;
+C. Both correct
+D. None of them
+ANS: A
+
+9. Which is the correct order to submit your changes from the working directory all the
+way to the remote repository?
+A. GIT add, git commit, git push
+B. GIT add, git push, git commit
+C. GIT commit, git add, git push
+D. GIT push, git add, git commit
+ANS: A
+
+10. Which of the following commands is used in switching between branches?
+A. GIT branch
+B. GIT checkout
+C. GIT switch
+D. GIT merge
+ANS:B
+
+11. Which of the following commands is used to reset the current HEAD to the specified
+state?
+A. GIT reset
+B. GIT restore
+C. GIT checkout
+D. GIT diff
+AND:A
+
+12. What command creates a new branch from the currently checked-out branch?
+A. git -b checkout
+B. git branch
+C. git checkout
+D. git checkout -b
+ANS:D
+
+13. Which of the following is true of the git push command?
+A. By default, a push doesn’t send tags to the remote repository.
+B. Commits can only be tagged when they are created.
+C. Tags are pushed to the remote repository with their respective commits.
+D. Only annotated tags are automatically pushed to the remote repository with a
+commit.
+ANS: A
+
+14. What Statement is true when you see git -A command?
+A. Only few files in the working directory are staged to the index.
+B. All new and updated files from the working directory are staged to the index.
+C. All files in the working directory are staged to the index in alphabetical order.
+D. Only updated files in the working directory are staged to the index.
+ANS: B
+
+15. How many individual commits can a single repository have?
+A. Any number of commits.
+B. Only one commit local per repository
+C. Only 3 commits per branch.
+D. Only one commit per HEAD.
+ANS:A 
+
